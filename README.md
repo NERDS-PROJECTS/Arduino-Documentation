@@ -110,6 +110,10 @@ while (condition) {
 Parameters: 
 condition: a boolean expression that evaluates to true or false.
 
+![x](https://user-images.githubusercontent.com/76831425/200163249-c5ad5454-f6ba-4d89-82fe-07b5fef216f2.png)
+
+
+
 for
 
 The for statement is used to repeat a block of statements enclosed in curly braces. An increment counter is usually used to increment and terminate the loop. The for statement is useful for any repetitive operation, and is often used in combination with arrays to operate on collections of data/pins.
@@ -125,6 +129,8 @@ condition: each time through the loop, condition is tested; if it’s true, the 
 
 increment: executed each time through the loop when condition is true.
 
+![y](https://user-images.githubusercontent.com/76831425/200163275-68530ccd-11df-4efc-a4a9-db5a5060908b.png)
+
 *Arithmetic operators*
 % (remainder)
 +  (addition)
@@ -132,6 +138,8 @@ increment: executed each time through the loop when condition is true.
 *   (multiplication)
 /   (division)
 =  (assignment operator)
+
+
 
 
 Enough talks! Now let's have a working demonstration of an Arduino project.
@@ -175,3 +183,6 @@ https://docs.arduino.cc/built-in-examples/
 
 # Reference:
 https://www.arduino.cc/
+
+
+
